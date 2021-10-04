@@ -50,7 +50,7 @@
 
 ### **사용기술**
 -Spring MVC 기반 웹 개발<br>
--OCR을 활용한 이미지 텍스트 추출(Template OCR, General　OCR)<br>
+-OCR을 활용한 이미지 텍스트 추출(Template OCR, General OCR)<br>
 -WebSocket을 활용한 영수증 승인/반려 실시간 알림<br>
 -JSON Web Token을 활용한 클라이언트 검증<br>
 -Apache POI를 활용한 매출/매입 내역 엑셀 다운로드<br>
