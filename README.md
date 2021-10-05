@@ -94,8 +94,8 @@
 <img src="service.png"/><br>
 
 # 4. 본인 소개
-<img src="picture.jpg" width="300" height="300">
-|이름 |박종범|![gdKO](/picture.jpg){: width="50" height="50"}|
+
+|이름 |박종범|<img src="picture.jpg" width="80" height="80">
 |연락처 | jb8049(@)naver.com |
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
