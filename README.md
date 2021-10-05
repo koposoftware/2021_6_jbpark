@@ -105,3 +105,10 @@
 | | Etc - Git|
 |자격증| SQLD, ADSP |
 
+|항목|내용||
+|-----|---------------------------|----|
+|이름 |박종범|<img src="./profile.jpg" width="120px">|
+|skill set| Frontend - HTML, CSS, Javascript|
+| | Backend - Java, Spring, Oracle, Python, Django |
+|자격증| 정보처리기사, SQLD |
+|특기사항|  TOEIC |
