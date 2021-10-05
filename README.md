@@ -104,3 +104,4 @@
 | | Backend - Java, Spring, Oracle|
 | | Etc - Git|
 |자격증| SQLD, ADSP |
+
