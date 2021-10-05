@@ -101,7 +101,15 @@
 |-----|---------------------------|----|
 |이름 |박종범|
 |연락처 | jb8049(@)naver.com |
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-| | Etc - Git|
+|Frontend|HTML, CSS, JavaScript|
+|Backend|Java, Python, R|
+|Etc|Git|
+|자격증| SQLD, ADSP |
+
+|이름 |박종범|
+|:-----|:--|
+|연락처 | jb8049(@)naver.com |
+|Frontend|HTML, CSS, JavaScript|
+|Backend|Java, Python, R|
+|Etc|Git|
 |자격증| SQLD, ADSP |
