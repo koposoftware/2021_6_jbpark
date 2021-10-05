@@ -96,21 +96,13 @@
 <img src="service.png"/><br>
 
 # 4. 본인 소개
-|항목|내용||
-|-----|---------------------------|----|
-|이름 |박종범|<img src="picture.jpg" width="120px">|
-|연락처 | jb8049(@)naver.com |
-|Frontend|HTML, CSS, JavaScript|
-|Backend|Java, Python, R|
-|Etc|Git|
-|자격증| SQLD, ADSP |
 
 |항목|내용||
 |-----|---------------------------|----|
 |이름 |박종범|<img src="picture.jpg" width="120px">|
 |연락처 | jb8049(@)naver.com |
 |Frontend|HTML, CSS, JavaScript|
-|Backend|Java, Python, R|
+|Backend|Java, Spring, Oracle|
 |Etc|Git|
 |자격증| SQLD, ADSP |
 
