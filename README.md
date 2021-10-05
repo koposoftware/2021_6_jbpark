@@ -105,3 +105,15 @@
 | | Etc - Git|
 |자격증| SQLD, ADSP |
 |특기사항|  TOEIC |
+
+
+|항목|내용||
+|-----|---------------------------|----|
+|이름 |박종범|<img src=".picture.jpg" width="120px">|
+|연락처 | dpfls0106(@)naver.com|
+|skill set| Frontend - HTML, CSS, Javascript|
+| | Backend - Java, Spring, Oracle|
+|자격증| 정보처리기사, SQLD |
+|수상|  |
+|대외활동||
+|특기사항|  TOEIC |
