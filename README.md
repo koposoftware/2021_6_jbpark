@@ -96,9 +96,10 @@
 <img src="service.png"/><br>
 
 # 4. 본인 소개
+<img src="picture.jpg" width="120px">
 |항목|내용||
 |-----|---------------------------|----|
-|이름 |박종범|<img src="picture.jpg" width="120px">|
+|이름 |박종범||
 |연락처 | jb8049(@)naver.com |
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
