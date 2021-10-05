@@ -109,8 +109,8 @@
 
 |항목|내용||
 |-----|---------------------------|----|
-|이름 |박종범|<img src=".picture.jpg" width="120px">|
-|연락처 | dpfls0106(@)naver.com|
+|이름 |박종범|<img src="picture.jpg" width="120px">|
+|연락처 | jb8049(@)naver.com |
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
 | | Etc - Git|
