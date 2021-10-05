@@ -104,6 +104,3 @@
 | | Backend - Java, Spring, Oracle|
 | | Etc - Git|
 |자격증| SQLD, ADSP |
-|수상|  |
-|대외활동||
-|특기사항|  TOEIC |
