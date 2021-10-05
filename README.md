@@ -23,7 +23,7 @@
 
 # 3. 프로젝트 결과
    <img src="logo.png"/><br>
-## [**하나WITH 최종 발표자료**](/하나WITH_최종발표자료.pptx)<br>
+## [**하나WITH 최종 발표자료**](/하나WITH_최종발표자료.pdf)<br>
 
 
 
