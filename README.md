@@ -29,8 +29,10 @@
 
 
 ## 시연 동영상 
+   <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=v5e0Nzi-6cw">
+      <img src="indexMain.PNG" style="width:800px;">
+   </a><br>
    
-   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/n-vYRwkgDJQ" frameborder="0"></iframe>
 
 ### **개발기간**
 -2021. 09. 06 ~ 2021. 10. 05<br>
